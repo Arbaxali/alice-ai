@@ -1,2 +1,2 @@
 # Alice-AI
-# Aliceis an alexa lke program but less complicated 
+# Alice is an alexa like program but less complicated 
